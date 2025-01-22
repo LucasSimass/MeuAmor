@@ -8,5 +8,4 @@ blocoPresente.addEventListener('click', () =>{
     presente.style.display = "none"
     presenteAberto.style.display = "block"
     carta.style.display = "block"
-    headerText.style.display = "none"
 })
