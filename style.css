@@ -7,7 +7,7 @@
 body{
     background: url(imagens/imagem-fundo.png) no-repeat;
     background-size: cover; 
-    height: 190vh;
+    height: 180vh;
 }
 header h1{
     font-size: 5em;
